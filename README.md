@@ -17,7 +17,7 @@
 ![Slider Preview](https://github.com/Anaswara-kesavan/image-slider-project/blob/main/Screenshot%20from%202025-03-20%2017-48-19.png)  
 
 ## 🎯 Live Demo  
-🔗 [Click here to see it live!](https://anaswara-kesavan.github.io/image-slider-project/)  
+🔗 [Click here to see it live!](https://github.com/Anaswara-kesavan/image-slider-project.git)  
 
 ## 📂 How to Use  
 1️⃣ Download the code or clone the repository:  
